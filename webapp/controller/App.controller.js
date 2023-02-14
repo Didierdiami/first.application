@@ -21,8 +21,6 @@ sap.ui.define([
                         fullScreen : false
                     }
                 }
-
-                
             });
             this.setModel(oViewModel, "appView");
 
