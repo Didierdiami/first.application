@@ -24,6 +24,10 @@ sap.ui.define([
             return this.getView().getModel(sName);
         },
 
+
+
+
+        
         /**
          * Convenience method for setting the view model in every controller of the application.
          * @public
